@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-input("Enter an Alphabet ")
-if  == 'a' or 'z' and not(q,e):
-    print("The alphabet is lower")
+for i in range(ord('a'), ord('z') + 1):
+    if chr(i) != 'e' and char != 'q':
+        print('{:c}'.format(i), end='')
